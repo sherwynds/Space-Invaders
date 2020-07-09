@@ -8,9 +8,9 @@
 
 ## Installation
 1. Download or clone this repository using `git clone`
-2. Navigate to the folder using `cd Space-Invaders`.
-3. Install the requirements with `pip install requirements.txt`.
-4. Run the game with `python space_invaders.py`.
+2. Navigate to the folder using `cd Space-Invaders`
+3. Install the requirements with `pip install requirements.txt`
+4. Run the game with `python space_invaders.py`
 
 
 ## Credits
