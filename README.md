@@ -1,6 +1,17 @@
+# Space Invaders
+
+
+## Gameplay
+- Move the left and right arrow keys to maneuver the spaceship
+- Press space to fire a bullet
+- Eliminate the invaders before the reach the bottom of the screen
+
 ## Installation
-1. Download or  this repository to your device
-2. Install the requirements using 
+1. Download or clone this repository using `git clone`
+2. Navigate to the folder using `cd Space-Invaders`.
+3. Install the requirements with `pip install requirements.txt`.
+4. Run the game with `python stacks.py`.
+
 
 ## Credits
  - Background: [Samantha Peltier](https://cutewallpaper.org/21/space-wallpaper-hd/1920x1080-Moon-Space-Minimal-1080P-Laptop-Full-HD-Wallpaper-.jpg)
