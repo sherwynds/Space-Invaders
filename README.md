@@ -22,3 +22,5 @@
  - Bullet: Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
  - Inspiration and Sounds: <a href="https://www.youtube.com/watch?v=FfWpgLFMI7w">Free CodeCamp</a>
  
+ Tested on Python 3.7, Windows 10
+ 
