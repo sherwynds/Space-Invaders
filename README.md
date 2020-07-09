@@ -1,3 +1,7 @@
+## Installation
+1. Download or  this repository to your device
+2. Install the requirements using 
+
 ## Credits
  - Background: [Samantha Peltier](https://cutewallpaper.org/21/space-wallpaper-hd/1920x1080-Moon-Space-Minimal-1080P-Laptop-Full-HD-Wallpaper-.jpg)
  - Player: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
