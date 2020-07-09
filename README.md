@@ -1,5 +1,5 @@
 # Space Invaders
-👾 Space Invaders is a timeless classic - and this is my personal implementation. I built this project to grow my knowledge of object-oriented game development. 
+👾 Space Invaders is a timeless classic. I built this personal implementation to grow my knowledge of object-oriented game development. 
 
 ## Gameplay
 - Move the left and right arrow keys to maneuver the spaceship
